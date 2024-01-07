@@ -10,8 +10,8 @@ const envioCorreo = (req=request,resp=response) =>{
         host:'smtp.gmail.com',
         post:587,
         auth:{
-            user:'manolin7771@gmail.com',
-            pass:'ivrs esit icwm klig'
+            user:'credisumate@gmail.com',
+            pass:'uitb fdrx tlgc opdn'
         }
     });
 
